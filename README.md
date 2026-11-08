@@ -10,7 +10,7 @@ The goal of this project is to predict the likelihood of a patient suffering a s
 - **Target:** `stroke` (Binary Classification: 0 = No, 1 = Yes)
 
 ## GitHub Repository Link
-[Insert your GitHub Link here]
+[https://github.com/KarthikSivaram27/BITS_ML_Assignment2_Stroke_Prediction_2026AJ05420](https://github.com/KarthikSivaram27/BITS_ML_Assignment2_Stroke_Prediction_2026AJ05420)
 
 ## Performance Comparison Table
 
