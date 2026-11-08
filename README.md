@@ -1,5 +1,10 @@
 # Stroke Prediction - ML Assignment 2
 
+**Author:** Karthik Sivaram  
+**BITS ID:** 2026AJ05420  
+**GitHub Repo:** [BITS_ML_Assignment2_Stroke_Prediction_2026AJ05420](https://github.com/KarthikSivaram27/BITS_ML_Assignment2_Stroke_Prediction_2026AJ05420)  
+**Live App:** [Streamlit Link](https://bitsmlassignment2strokeprediction2026aj05420-9o4uljeqstuqvdaaq.streamlit.app/)
+
 ## Problem Statement
 The goal of this project is to predict the likelihood of a patient suffering a stroke based on various health indicators such as age, hypertension, heart disease, and glucose levels. Five different classification models were implemented to determine the most reliable predictor.
 
@@ -8,9 +13,6 @@ The goal of this project is to predict the likelihood of a patient suffering a s
 - **Instances:** > 500
 - **Features:** 12+ (including age, gender, hypertension, heart disease, avg glucose level, bmi, smoking status, etc.)
 - **Target:** `stroke` (Binary Classification: 0 = No, 1 = Yes)
-
-## GitHub Repository Link
-[https://github.com/KarthikSivaram27/BITS_ML_Assignment2_Stroke_Prediction_2026AJ05420](https://github.com/KarthikSivaram27/BITS_ML_Assignment2_Stroke_Prediction_2026AJ05420)
 
 ## Performance Comparison Table
 
